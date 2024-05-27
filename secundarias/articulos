@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tallerbimestre1</title>
+</head>
+<h1>Impacto de las Tecnologías Web en la Sociedad y los Negocios</h1>
+<body>
+    <nav>
+        <section>
+            <ul>
+                <li><a href="/tallerprimerbimestre/index.html">Home</a></li>
+                <li><a href="/tallerprimerbimestre/secundarias/articulos">Articulos</a></li>
+                <li><a href="/tallerprimerbimestre/secundarias/blogs">Blog</a></li>
+                <li><a href="/tallerprimerbimestre/secundarias/noticias">Noticias</a></li>      
+            </ul>
+        </section>
+    </nav>
+    <header><h2>Articulos</h2></header>
+    <img src="/tallerprimerbimestre/imagenes/articulos.jpg" width="30%" alt="art">
+    <article>
+     <h4>Como sucede con cualquier cambio tecnológico trascendental, los individuos, las empresas y las instituciones que lo experimentan en toda su intensidad se sienten abrumados por él, debido a que desconocen cuáles serán sus efectos.</h4>
+        <p>Los medios contribuyen a deformar esta percepción ya por sí distorsionada, difundiendo informes alarmistas y basados en observaciones anecdóticas y opiniones tendenciosas. Si hay una materia en la que las ciencias sociales en toda su diversidad deberán contribuir a mejorar nuestra comprensión del mundo en que vivimos, es precisamente aquella que, en el entorno académico, hemos denominado «estudios de internet». En efecto, la investigación científica nos ha desvelado mucho acerca de la interacción entre internet y la sociedad a partir de estudios empíricos rigurosos y metódicos llevados a cabo en una gran variedad de contextos culturales e institucionales. Todo proceso de cambio tecnológico de envergadura genera una mitología propia. En parte porque se hace uso de él antes de que los científicos hayan podido evaluar sus efectos e implicaciones, y por ello siempre existe una distancia entre el cambio social y la comprensión del mismo. Por ejemplo, los medios a menudo informan de que un uso intensivo de internet aumenta el riesgo de enajenación, aislamiento, depresión o distanciamiento social. Sin embargo, los datos disponibles evidencian que, o bien no existe ninguna relación entre el uso de internet y la intensidad de la vida social, o bien ésta es positiva y de efecto acumulativo. Observamos que, en general, las personas más sociables son las que más utilizan internet. Y cuanto más usan internet los individuos, más aumentan su sociabilidad dentro y fuera de la red, su responsabilidad cívica y la intensidad de sus relaciones con familiares y amigos. Y esto se ha observado en todas las culturas, con la excepción de un par de estudios tempranos sobre internet realizados en la década de 1990 y que luego sus autores enmendaron (Castells, 2001, y Castells et al., 2007; Rainie and Wellman, 2012; y Center for the Digital Future, Estudio Mundial de Internet, diferentes años).</p>
+    </article>
+
+    <footer>
+        <h5>Copyright</h5>
+        <h5>Contactenos</h5>
+
+    </footer>
+
+</body>
+</html>Los medios contribuyen a deformar esta percepción ya por sí distorsionada, difundiendo informes alarmistas y basados en observaciones anecdóticas y opiniones tendenciosas. Si hay una materia en la que las ciencias sociales en toda su diversidad deberán contribuir a mejorar nuestra comprensión del mundo en que vivimos, es precisamente aquella que, en el entorno académico, hemos denominado «estudios de internet». En efecto, la investigación científica nos ha desvelado mucho acerca de la interacción entre internet y la sociedad a partir de estudios empíricos rigurosos y metódicos llevados a cabo en una gran variedad de contextos culturales e institucionales. Todo proceso de cambio tecnológico de envergadura genera una mitología propia. En parte porque se hace uso de él antes de que los científicos hayan podido evaluar sus efectos e implicaciones, y por ello siempre existe una distancia entre el cambio social y la comprensión del mismo. Por ejemplo, los medios a menudo informan de que un uso intensivo de internet aumenta el riesgo de enajenación, aislamiento, depresión o distanciamiento social. Sin embargo, los datos disponibles evidencian que, o bien no existe ninguna relación entre el uso de internet y la intensidad de la vida social, o bien ésta es positiva y de efecto acumulativo. Observamos que, en general, las personas más sociables son las que más utilizan internet. Y cuanto más usan internet los individuos, más aumentan su sociabilidad dentro y fuera de la red, su responsabilidad cívica y la intensidad de sus relaciones con familiares y amigos. Y esto se ha observado en todas las culturas, con la excepción de un par de estudios tempranos sobre internet realizados en la década de 1990 y que luego sus autores enmendaron (Castells, 2001, y Castells et al., 2007; Rainie and Wellman, 2012; y Center for the Digital Future, Estudio Mundial de Internet, diferentes años).

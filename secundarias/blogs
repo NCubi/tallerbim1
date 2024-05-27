@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tallerbimestre1</title>
+</head>
+<h1>Impacto de las Tecnologías Web en la Sociedad y los Negocios</h1>
+<body>
+    <nav>
+        <section>
+            <ul>
+                <li><a href="/tallerprimerbimestre/index.html">Home</a></li>
+                <li><a href="/tallerprimerbimestre/secundarias/articulos">Articulos</a></li>
+                <li><a href="/tallerprimerbimestre/secundarias/blogs">Blog</a></li>
+                <li><a href="/tallerprimerbimestre/secundarias/noticias">Noticias</a></li>      
+            </ul>
+        </section>
+    </nav>
+    <img src="/tallerprimerbimestre/imagenes/blogs.jpg" width="30%" alt="blo">
+
+    <header>
+        <h1>El paradigma de la industria 4.0 y la transformación de los servicios tradicionales</h1>
+    </header>
+    <p>¿Te has preguntado cómo mantener el control en la era de la IA con observabilidad estratégica? Bueno, pues aquí tenemos algunas ideas.</p>
+    <p>Se trata de una auténtica Revolución Industrial: la edición bautizada como “4.0” y que es impulsada por la inteligencia artificial (IA), augura un futuro en el que la tecnología define, no solo cómo operamos nuestros negocios, sino cómo evolucionamos en un ecosistema cada vez más interconectado y globalizado. </p>
+    <footer>
+        <h5>Copyright</h5>
+        <h5>Contactenos</h5>
+
+    </footer>
+
+
+</body>
+</html>

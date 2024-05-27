@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tallerbimestre1</title>
+</head>
+<h1>Impacto de las Tecnologías Web en la Sociedad y los Negocios</h1>
+<body>
+    <nav>
+        <section>
+            <ul>
+                <li><a href="/tallerprimerbimestre/index.html">Home</a></li>
+                <li><a href="/tallerprimerbimestre/secundarias/articulos">Articulos</a></li>
+                <li><a href="/tallerprimerbimestre/secundarias/blogs">Blog</a></li>
+                <li><a href="/tallerprimerbimestre/secundarias/noticias">Noticias</a></li>      
+            </ul>
+        </section>
+    </nav>
+    <img src="/tallerprimerbimestre/imagenes/noticias.jpg" width="30%" alt="not">
+
+    <video width="40%" controls>  
+        <source src="/tallerprimerbimestre/multimedia/Entrecanales Domecq e Hijos_ digitalización entre viñedos..mp4" type="video/mp4">  
+    </video>
+    
+    <footer>
+        <h5>Copyright</h5>
+        <h5>Contactenos</h5>
+
+    </footer>
+
+</body>
+</html>
